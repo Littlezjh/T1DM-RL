@@ -1,0 +1,44 @@
+Tue Jan 26 21:18:56 2021       
++-----------------------------------------------------------------------------+
+| NVIDIA-SMI 460.79       Driver Version: 460.79       CUDA Version: 11.2     |
+|-------------------------------+----------------------+----------------------+
+| GPU  Name            TCC/WDDM | Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+|                               |                      |               MIG M. |
+|===============================+======================+======================|
+|   0  GeForce RTX 207... WDDM  | 00000000:01:00.0  On |                  N/A |
+| 54%   66C    P2   103W / 215W |   3051MiB /  8192MiB |     47%      Default |
+|                               |                      |                  N/A |
++-------------------------------+----------------------+----------------------+
+                                                                               
++-----------------------------------------------------------------------------+
+| Processes:                                                                  |
+|  GPU   GI   CI        PID   Type   Process name                  GPU Memory |
+|        ID   ID                                                   Usage      |
+|=============================================================================|
+|    0   N/A  N/A       280    C+G   Insufficient Permissions        N/A      |
+|    0   N/A  N/A      1412    C+G   ...pplication\mailmaster.exe    N/A      |
+|    0   N/A  N/A      7308    C+G   ...wekyb3d8bbwe\Video.UI.exe    N/A      |
+|    0   N/A  N/A      9428    C+G   ...me\Application\chrome.exe    N/A      |
+|    0   N/A  N/A     12612    C+G   ...adowsocks\Shadowsocks.exe    N/A      |
+|    0   N/A  N/A     14252    C+G   F:\н╒пе\WeChat\wechatweb.exe    N/A      |
+|    0   N/A  N/A     15468    C+G   F:\н╒пе\WeChat\WeChatApp.exe    N/A      |
+|    0   N/A  N/A     15560    C+G   ...ekyb3d8bbwe\YourPhone.exe    N/A      |
+|    0   N/A  N/A     15600    C+G   ...in7x64\steamwebhelper.exe    N/A      |
+|    0   N/A  N/A     16052    C+G   F:\TeamViewer\TeamViewer.exe    N/A      |
+|    0   N/A  N/A     17232    C+G   ...s\PowerToys\PowerToys.exe    N/A      |
+|    0   N/A  N/A     19324    C+G   ...019.2.1\bin\pycharm64.exe    N/A      |
+|    0   N/A  N/A     20376    C+G   ...Battle.net\Battle.net.exe    N/A      |
+|    0   N/A  N/A     21216    C+G   ...Battle.net\Battle.net.exe    N/A      |
+|    0   N/A  N/A     22896    C+G   ...sk\baidunetdiskrender.exe    N/A      |
+|    0   N/A  N/A     24308    C+G   ...oot\Office16\POWERPNT.EXE    N/A      |
+|    0   N/A  N/A     25656    C+G   ...es.TextInput.InputApp.exe    N/A      |
+|    0   N/A  N/A     26664    C+G   ...bbwe\Microsoft.Photos.exe    N/A      |
+|    0   N/A  N/A     26980      C   ...3\envs\pytorch\python.exe    N/A      |
+|    0   N/A  N/A     27412    C+G   ...perience\NVIDIA Share.exe    N/A      |
+|    0   N/A  N/A     30328    C+G   ...CloudMusic\cloudmusic.exe    N/A      |
+|    0   N/A  N/A     31832    C+G   ...y\ShellExperienceHost.exe    N/A      |
+|    0   N/A  N/A     32584    C+G   ...ne\bin\webwallpaper32.exe    N/A      |
+|    0   N/A  N/A     32980    C+G   ...w5n1h2txyewy\SearchUI.exe    N/A      |
+|    0   N/A  N/A     33496    C+G   C:\Windows\explorer.exe         N/A      |
++-----------------------------------------------------------------------------+
